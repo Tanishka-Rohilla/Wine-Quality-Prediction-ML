@@ -1,12 +1,10 @@
-# Wine-Quality-Prediction-ML
+# 🍷 Wine Quality Prediction – End-to-End Machine Learning Project
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/Tanishka-Rohilla/Wine-Quality-Prediction-ML/blob/main/Wine_Quality_Prediction.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-
-# 🍷 Wine Quality Prediction – End-to-End Machine Learning Project
 
 ---
 
@@ -95,9 +93,7 @@ The project covers all major steps involved in building a real-world ML system, 
 
 ## 📈 Results
 
-- Random forest and SVM models performed better due to their ability to handle complex patterns  
-- Feature scaling improved performance for distance-based models  
-- Hyperparameter tuning helped achieve optimal model accuracy  
+- Random forest  performed better due to it's ability to handle complex patterns  
 
 ---
 
